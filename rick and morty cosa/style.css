@@ -1,0 +1,11 @@
+.characters {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+  
+  .character {
+    width: 30%;
+    padding: 1em;
+    text-align: center;
+  }
